@@ -1,0 +1,1 @@
+Hello! This is the first foundations project for Odin. At the end, I will have a better and solid understanding of HTML. Also, more experience working on the command line and git commits. 
